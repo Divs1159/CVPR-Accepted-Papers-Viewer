@@ -1,6 +1,6 @@
 # CVPR Accepted Papers Viewer
 
-**NOW LIVE FOR 2020!**
+**[NOW LIVE FOR 2020!](https://mattdeitke.com/CVPR-2020/)**
 
 The main goal of these scripts is to build a page that displays the accepted papers for CVPR 2020 in a way that is easier for humans to parse (see: https://mattdeitke.com/CVPR-2020). Below is an example of what this repository will display, and following that is what CVPR open access currently shows.
 
